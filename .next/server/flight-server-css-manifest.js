@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/abuka/Documents/Web Dev Projects/Metaversus/app/page":["/Users/abuka/Documents/Web Dev Projects/Metaversus/styles/globals.css"]},"/Users/abuka/Documents/Web Dev Projects/Metaversus/app/layout.js":["/Users/abuka/Documents/Web Dev Projects/Metaversus/styles/globals.css"]}
